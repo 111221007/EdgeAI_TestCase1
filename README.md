@@ -7,7 +7,7 @@ This project demonstrates techniques for deploying and optimizing Edge AI models
 
 ## 🚀 Setup
 ```bash
-git clone https://github.com/111221007/EdgeAI_TestCase1.git
+git clone https://github.com/111221007/EdgeAI_TestCase1
 cd edge-ai-latency-lab
 pip install -r requirements.txt
 ```
